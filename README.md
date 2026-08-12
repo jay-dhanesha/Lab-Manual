@@ -1,8 +1,4 @@
 # Lab-Manual
-Name: JAY DHANESHA   
-Institute: Darshan University Rajkot
-Program: student of Btech AI
-
 Welcome! This repository serves as a centralized collection of Darshan University (DU) lab manuals, designed to help students practicing practicals in B.Tech CSE and AI.
 
 ---
